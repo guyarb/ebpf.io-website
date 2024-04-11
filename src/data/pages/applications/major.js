@@ -146,7 +146,7 @@ const majorApplications = [
   {
     logoUrl: 'https://github.com/DataDog/datadog-agent',
     name: 'Datadog Agent',
-    logoName: 'datadlogLogo',
+    logoName: 'datadogLogo',
     title: 'eBPF-based Network Observability, Security Observability & Runtime Enforcement',
     description: `TODO`,
     urls: [
