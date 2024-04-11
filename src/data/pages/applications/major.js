@@ -143,6 +143,17 @@ const majorApplications = [
       { label: 'Website', url: 'https://tetragon.io/' },
     ],
   },
+  {
+    logoUrl: 'https://github.com/DataDog/datadog-agent',
+    name: 'Datadog Agent',
+    logoName: 'datadlogLogo',
+    title: 'eBPF-based Network Observability, Security Observability & Runtime Enforcement',
+    description: `TODO`,
+    urls: [
+      { label: 'GitHub', url: 'https://github.com/DataDog/datadog-agent },
+      { label: 'Website', url: 'https://www.datadoghq.com/' },
+    ],
+  },
 ];
 
 export default majorApplications;
